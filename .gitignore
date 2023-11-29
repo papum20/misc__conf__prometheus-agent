@@ -1,0 +1,6 @@
+# personal data collected by agent
+wal_data/
+
+# should be re-generated
+.env
+prometheus.yaml
